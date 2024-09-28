@@ -120,18 +120,21 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 200px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 200px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 200px;
 }
 
 .search-engine-optimization {
@@ -162,14 +165,17 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+   height: 150px;
+   max-height: 200px;
 }
 
 .online-reputation-management img {
+    height: 150px;
     max-height: 200px;
 }
 
 .social-media-marketing img {
+    height: 150px;
     max-height: 200px;
 }
 
